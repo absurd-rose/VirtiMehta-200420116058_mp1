@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.8em;
+}
+.border{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+.ptext{
+    padding: 25px;
+    text-align: center;
+    font-size: 27px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    letter-spacing: 5px;
+}
+.div-1, .div-3, .div-5,.div-7{
+    background-image: url("images/img1.jpg");
+    height: 100vh;
+    margin: 0%;
+    width: 100vw;
+    opacity: 0.70;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+.section{
+    padding: 50px 80px;
+    text-align: justify;
+}
+h2{
+    font-weight: bold;
+    text-align: center
+}
+.sec-1{
+    color: gray;
+    background-color: lightgray;
+}
+.div-3{
+
+    background-image: url("images/img2.jpg");
+    min-height: 400px;
+}
+.ptext-1{
+    padding: 25px;
+    text-align: center;
+    font-size: 27px;
+    position: relative;
+    top: 50%;
+    width: 100%;
+    letter-spacing: 5px;
+}
+.img-2{
+    color: white;
+}
+.sec-2, .sec-3{
+    text-align: center;
+    color: white;
+    background-color: rgb(24, 23, 23);
+}
+.div-5{
+    background-image: url("/Images/img3.jpg");
+    min-height: 400px;
+}
